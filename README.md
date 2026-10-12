@@ -1,23 +1,18 @@
-# MotoCare — Android test sürümü
+# MotoCare artık Google Play'de 🏍️
 
-Motosiklet bakım takibi uygulaması. Bu depo yalnızca **indirme bağlantısı** içindir; Play Store'da yayımlanana kadar test sürümü buradan dağıtılır.
+Motosiklet bakım takibi uygulaması **MotoCare** test sürecini tamamladı ve Google Play'de yayında.
 
 ## İndir
 
-**[MotoCare.apk'yı indir](https://github.com/utkuerdemy/MotoCare-indir/releases/latest/download/MotoCare.apk)** (Android)
+- **Android:** **[Google Play'den indir](https://play.google.com/store/apps/details?id=com.motocaretr.app)**
+- **iPhone ve bilgisayar:** [motocare.tr](https://motocare.tr) (iPhone'da Safari → Paylaş → Ana Ekrana Ekle)
 
-## Nasıl kurulur?
+## Test sürümünü (bu sayfadaki APK) kullanıyorsan
 
-1. Bu sayfayı Android telefonundan aç ve yukarıdaki bağlantıyla dosyayı indir.
-2. İndirilen **MotoCare.apk** dosyasını aç. Telefon "Bu kaynaktan uygulama yüklemeye izin ver" derse, dosyayı açtığın tarayıcı ya da dosya uygulaması için izni aç.
-3. **Yükle**'ye bas. Play Protect uyarı verirse **Yine de yükle**'yi seç (uygulama mağazadan gelmediği için uyarır).
-4. İlk açılışta bildirim iznini ver.
-5. **Müşteri Girişi**'nde **Kayıt ol** ile hesabını oluştur ve motorunu ekle.
+Bu sayfadaki APK artık güncellenmiyor. Yeni özellikler ve düzeltmeler yalnızca Google Play sürümüne geliyor.
 
-Servis misin? Ana ekranın altındaki **Servis kaydı için başvur** bağlantısıyla başvurabilirsin; servis hesapları yönetici onayından sonra açılır.
+1. Play Store'dan **MotoCare**'i yükle (test sürümünün yanına ayrı uygulama olarak kurulur).
+2. Aynı e-posta ve şifreyle (ya da Google ile) giriş yap. Motorların ve kayıtların hesabında olduğu için geri gelir.
+3. Her şey yerindeyse eski test uygulamasını silebilirsin.
 
-## Güncelleme
-
-Yeni bir sürüm yayımlandığında aynı bağlantıdan indirip eskisinin üzerine kurabilirsin. Kurulum "uygulama yüklenemedi" derse önce eski uygulamayı silip yenisini yükle. Verilerin hesabına bağlıdır, silsen de giriş yapınca geri gelir (fotoğraflar hariç, onlar şimdilik yalnızca çekildiği telefonda durur).
-
-> Bu bir **test sürümüdür**; hatalarla karşılaşabilirsin.
+Servis misin? Uygulamada giriş ekranının altındaki **Servis kaydı için başvur** bağlantısıyla başvurabilirsin; servis hesapları yönetici onayından sonra açılır.
